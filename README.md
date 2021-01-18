@@ -1,3 +1,3 @@
 # mininet-testbed
 
-Emulator test bed for network protocol performance testing
+Emulated test bed for network protocol performance testing
